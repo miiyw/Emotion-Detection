@@ -28,7 +28,7 @@ Google Colab
 ## 데이터셋
 Kaggle FER-2013
 
-[Download] (https://www.kaggle.com/competitions/challenges-in-representation-learning-facial-expression-recognition-challenge)
+[Download](https://www.kaggle.com/competitions/challenges-in-representation-learning-facial-expression-recognition-challenge)
 
 ## 사용 패키지
 * tensorflow
